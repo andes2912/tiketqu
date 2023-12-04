@@ -1,6 +1,9 @@
 # TiketQu - Tempat Pemesanan Tiket
 
 <p>Halo, ini adalah TiketQu aplikasi Pemesanan Tiket, desain dan fitur sebagian terinpirasi dari aplikasi Tiket.com  Aplikasi ini akan terus mendapat update secara berkala. Mohon untuk memberi issue jika kalian menemui bug pada saat penginstalan atau saat menggunakan aplikasi ini. Terima kasih <br/>
+
+## Demo
+[https://tiket.andridesmana.space/](https://tiket.andridesmana.space/)
     
 ## Requirements
 
