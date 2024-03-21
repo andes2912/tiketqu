@@ -11,8 +11,8 @@
     - Password : Bismillah
  
 - Publisher (Penerbit Tiket)
-      - Email : septi@mail.com
-      - Password : Bismillah
+    - Email : septi@mail.com
+    - Password : Bismillah
     
 ## Requirements
 
