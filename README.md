@@ -4,6 +4,15 @@
 
 ## Demo
 [https://tiket.andridesmana.space/](https://tiket.andridesmana.space/)
+
+## AKUN LOGIN
+- Admin
+    - Email : andridesmana29@gmail.com
+    - Password : Bismillah
+ 
+- Publisher (Penerbit Tiket)
+      - Email : septi@mail.com
+      - Password : Bismillah
     
 ## Requirements
 
